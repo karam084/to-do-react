@@ -1,5 +1,3 @@
-![](https://github.com/karam084/online-courses-capstone)
-
 # Project Name
 
 To Do React App
